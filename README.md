@@ -90,8 +90,8 @@ Markup : ```javascript
     2. Which is numbered
 2. Which is numbered
 
--[ ] An uncompleted task
--[x] A completed task
+ - [ ] An uncompleted task
+ - [x] A completed task
 
 
 >Blockqoute
